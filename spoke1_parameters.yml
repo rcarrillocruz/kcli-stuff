@@ -2,7 +2,7 @@ network_type: OVNKubernetes
 sno: true
 sno_virtual: true
 version: nightly
-tag: 4.8
+tag: 4.9
 numcpus: 8
 memory: 20000
 cluster: spoke1
