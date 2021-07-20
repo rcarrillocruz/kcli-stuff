@@ -4,5 +4,5 @@ sno_virtual: true
 version: nightly
 tag: 4.9
 numcpus: 8
-memory: 20000
+memory: 30000
 cluster: spoke1
